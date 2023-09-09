@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Network App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
+
+## Authors
+### Ray Oshafi <scengltd@gmail.com>
+### Martha Akinlolu <marthaakinlolu@gmail.com>
+### Kpor Kennedy <pascalkwame@outlook.com>
+
+## Github Link
+https://github.com/DrRay22/network-app
+
+## Deployed Site
+ https://drray22.github.io/network_app_deploy/
 
 ## Available Scripts
 
